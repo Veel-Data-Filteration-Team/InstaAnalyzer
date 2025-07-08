@@ -1,0 +1,7 @@
+test_category_fix.py
+update_creator_types.py
+master_analyzed.json
+master_analyzed1.json
+.DS_Store
+output/
+.venv/
